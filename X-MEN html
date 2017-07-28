@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>X-MEN</title>
+</head>
+<body>
+  <h1 align="center">X-MEN</h1> 
+  <p>For Decades, Charles Xavier has led the war on genocide and oppression against <br />the oppressors, both Human and Mutant.
+  </p>
+<a href="https://s-media-cache-ak0.pinimg.com/originals/bf/07/54/bf0754236de16e14849aae234609a78e.jpg" target="_blank">Foes of The X-MEN</a>
+  <p>Prime Enemies</p>
+  <ol>
+    <li>Apocalypse</li>
+    <li>Mr. Sinister</li>
+    <li>Juggernaut</li>
+    <li>Magneto</li>
+  </ol>
+  
+  <p>Allies</p>
+  <ul>
+    <li>Spiderman</li>
+    <li>Cable</li>
+    <li>Bishop</li>
+    <li>Lalandra</li>
+  </ul>
+<a href="https://s-media-cache-ak0.pinimg.com/originals/b6/8d/0e/b68d0e97312dda21f34f6b4644334402.jpg"><img src="https://s-media-cache-ak0.pinimg.com/originals/b6/8d/0e/b68d0e97312dda21f34f6b4644334402.jpg"></a>
+
+</body> 
+</html>
